@@ -1,1 +1,1 @@
-# Pong Wear
+# Pong Wear Sensor
